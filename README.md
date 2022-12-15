@@ -37,7 +37,7 @@ By looking at the bar graphs, we can see that categories like "offer" or "shops"
 
 This implies a clear underrepresentation of some categories. And thus, a poor classification of new messages related to those categories. 
 
-One possible solution would be completing the training set with more examples of these categories. Anothe one would be merging similar categories.
+One possible solution would be completing the training set with more examples of these categories. Another one would be merging those with similar categories that present higher frequencies.
 
 
 ### About:
