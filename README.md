@@ -2,7 +2,7 @@
 # Disaster Response Pipeline Project
 
 ### Download pickle file
-https://www.dropbox.com/s/i0fyiwk9x7pkixn/classifier.rar?dl=0
+https://www.dropbox.com/s/8t5sg4t4d6wsscu/classifier.rar?dl=0
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
